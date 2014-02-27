@@ -1,0 +1,25 @@
+#new-amount {
+  width: 150px;
+}
+#new-description {
+  width: 300px;
+}
+#new-category {
+  width: 300px;
+}
+#purchases {
+  float: right;
+}
+#add-purchases {
+  float: right;
+}
+#add-category {
+  float: left;
+}
+
+p {
+  margin-bottom: 0px;
+}
+form#expense-form {
+  display: none;
+}
